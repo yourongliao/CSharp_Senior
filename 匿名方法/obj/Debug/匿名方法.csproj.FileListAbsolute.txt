@@ -1,0 +1,6 @@
+D:\code\visual studio\CSharp_Senior\字符串string\匿名方法\bin\Debug\匿名方法.exe.config
+D:\code\visual studio\CSharp_Senior\字符串string\匿名方法\bin\Debug\匿名方法.exe
+D:\code\visual studio\CSharp_Senior\字符串string\匿名方法\bin\Debug\匿名方法.pdb
+D:\code\visual studio\CSharp_Senior\字符串string\匿名方法\obj\Debug\匿名方法.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Senior\字符串string\匿名方法\obj\Debug\匿名方法.exe
+D:\code\visual studio\CSharp_Senior\字符串string\匿名方法\obj\Debug\匿名方法.pdb

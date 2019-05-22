@@ -1,0 +1,11 @@
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\json操作\bin\Debug\json技能信息.txt
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\json操作\bin\Debug\json操作.exe.config
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\json操作\bin\Debug\json操作.exe
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\json操作\bin\Debug\json操作.pdb
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\json操作\bin\Debug\LitJson.dll
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\json操作\obj\Debug\json操作.csprojAssemblyReference.cache
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\json操作\obj\Debug\json操作.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\json操作\obj\Debug\json操作.csproj.CopyComplete
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\json操作\obj\Debug\json操作.exe
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\json操作\obj\Debug\json操作.pdb
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\json操作\bin\Debug\主角信息.txt

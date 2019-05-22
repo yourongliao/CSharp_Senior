@@ -1,0 +1,8 @@
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\Excel操作\bin\Debug\装备信息.xlsx
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\Excel操作\bin\Debug\Excel操作.exe.config
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\Excel操作\bin\Debug\Excel操作.exe
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\Excel操作\bin\Debug\Excel操作.pdb
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\Excel操作\obj\Debug\Excel操作.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\Excel操作\obj\Debug\Excel操作.exe
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\Excel操作\obj\Debug\Excel操作.pdb
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\Excel操作\bin\Debug\装备信息.xls

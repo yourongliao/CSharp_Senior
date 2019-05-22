@@ -1,0 +1,6 @@
+D:\code\visual studio\CSharp_Senior\字符串string\线程池\bin\Debug\线程池.exe.config
+D:\code\visual studio\CSharp_Senior\字符串string\线程池\bin\Debug\线程池.exe
+D:\code\visual studio\CSharp_Senior\字符串string\线程池\bin\Debug\线程池.pdb
+D:\code\visual studio\CSharp_Senior\字符串string\线程池\obj\Debug\线程池.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Senior\字符串string\线程池\obj\Debug\线程池.exe
+D:\code\visual studio\CSharp_Senior\字符串string\线程池\obj\Debug\线程池.pdb

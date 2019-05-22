@@ -1,0 +1,8 @@
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\xml文档解析-技能信息\bin\Debug\xml文档解析-技能信息.exe.config
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\xml文档解析-技能信息\bin\Debug\xml文档解析-技能信息.exe
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\xml文档解析-技能信息\bin\Debug\xml文档解析-技能信息.pdb
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\xml文档解析-技能信息\obj\Debug\xml文档解析-技能信息.csprojAssemblyReference.cache
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\xml文档解析-技能信息\obj\Debug\xml文档解析-技能信息.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\xml文档解析-技能信息\obj\Debug\xml文档解析-技能信息.exe
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\xml文档解析-技能信息\obj\Debug\xml文档解析-技能信息.pdb
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\xml文档解析-技能信息\bin\Debug\xml技能信息.txt

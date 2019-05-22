@@ -1,0 +1,6 @@
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\tcpclient\obj\Debug\tcpclient.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\tcpclient\bin\Debug\tcpclient.exe.config
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\tcpclient\bin\Debug\tcpclient.exe
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\tcpclient\bin\Debug\tcpclient.pdb
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\tcpclient\obj\Debug\tcpclient.exe
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\tcpclient\obj\Debug\tcpclient.pdb

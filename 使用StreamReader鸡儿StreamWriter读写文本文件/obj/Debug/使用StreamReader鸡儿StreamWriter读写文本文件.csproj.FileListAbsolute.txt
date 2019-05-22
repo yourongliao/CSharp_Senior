@@ -1,0 +1,8 @@
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\使用StreamReader鸡儿StreamWriter读写文本文件\bin\Debug\TextFile1.txt
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\使用StreamReader鸡儿StreamWriter读写文本文件\bin\Debug\使用StreamReader鸡儿StreamWriter读写文本文件.exe.config
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\使用StreamReader鸡儿StreamWriter读写文本文件\bin\Debug\使用StreamReader鸡儿StreamWriter读写文本文件.exe
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\使用StreamReader鸡儿StreamWriter读写文本文件\bin\Debug\使用StreamReader鸡儿StreamWriter读写文本文件.pdb
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\使用StreamReader鸡儿StreamWriter读写文本文件\obj\Debug\使用StreamReader鸡儿StreamWriter读写文本文件.csprojAssemblyReference.cache
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\使用StreamReader鸡儿StreamWriter读写文本文件\obj\Debug\使用StreamReader鸡儿StreamWriter读写文本文件.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\使用StreamReader鸡儿StreamWriter读写文本文件\obj\Debug\使用StreamReader鸡儿StreamWriter读写文本文件.exe
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\使用StreamReader鸡儿StreamWriter读写文本文件\obj\Debug\使用StreamReader鸡儿StreamWriter读写文本文件.pdb

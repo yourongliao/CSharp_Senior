@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Senior\字符串string\委托\bin\Debug\委托.exe.config
+D:\code\visual studio\CSharp_Senior\字符串string\委托\bin\Debug\委托.exe
+D:\code\visual studio\CSharp_Senior\字符串string\委托\bin\Debug\委托.pdb
+D:\code\visual studio\CSharp_Senior\字符串string\委托\obj\Debug\委托.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Senior\字符串string\委托\obj\Debug\委托.exe
+D:\code\visual studio\CSharp_Senior\字符串string\委托\obj\Debug\委托.pdb
+D:\code\visual studio\CSharp_Senior\字符串string\委托\obj\Debug\委托.csprojAssemblyReference.cache

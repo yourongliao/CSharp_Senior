@@ -1,0 +1,8 @@
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\文件操作_查看文件夹和文件夹信息\bin\Debug\文件操作_查看文件夹和文件夹信息.exe.config
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\文件操作_查看文件夹和文件夹信息\bin\Debug\文件操作_查看文件夹和文件夹信息.exe
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\文件操作_查看文件夹和文件夹信息\bin\Debug\文件操作_查看文件夹和文件夹信息.pdb
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\文件操作_查看文件夹和文件夹信息\obj\Debug\文件操作_查看文件夹和文件夹信息.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\文件操作_查看文件夹和文件夹信息\obj\Debug\文件操作_查看文件夹和文件夹信息.exe
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\文件操作_查看文件夹和文件夹信息\obj\Debug\文件操作_查看文件夹和文件夹信息.pdb
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\文件操作_查看文件夹和文件夹信息\bin\Debug\TextFile1.txt
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\文件操作_查看文件夹和文件夹信息\obj\Debug\文件操作_查看文件夹和文件夹信息.csprojAssemblyReference.cache

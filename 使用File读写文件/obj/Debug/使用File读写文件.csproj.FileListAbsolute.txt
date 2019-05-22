@@ -1,0 +1,8 @@
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\使用File读写文件\bin\Debug\TextFile1.txt
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\使用File读写文件\bin\Debug\使用File读写文件.exe.config
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\使用File读写文件\bin\Debug\使用File读写文件.exe
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\使用File读写文件\bin\Debug\使用File读写文件.pdb
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\使用File读写文件\obj\Debug\使用File读写文件.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\使用File读写文件\obj\Debug\使用File读写文件.exe
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\使用File读写文件\obj\Debug\使用File读写文件.pdb
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\使用File读写文件\bin\Debug\3.LINQ.png

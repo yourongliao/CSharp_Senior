@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Senior\字符串string\字符串string\bin\Debug\字符串string.exe.config
+D:\code\visual studio\CSharp_Senior\字符串string\字符串string\bin\Debug\字符串string.exe
+D:\code\visual studio\CSharp_Senior\字符串string\字符串string\bin\Debug\字符串string.pdb
+D:\code\visual studio\CSharp_Senior\字符串string\字符串string\obj\Debug\字符串string.csprojAssemblyReference.cache
+D:\code\visual studio\CSharp_Senior\字符串string\字符串string\obj\Debug\字符串string.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Senior\字符串string\字符串string\obj\Debug\字符串string.exe
+D:\code\visual studio\CSharp_Senior\字符串string\字符串string\obj\Debug\字符串string.pdb

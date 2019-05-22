@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Senior\字符串string\LINQ\bin\Debug\LINQ.exe.config
+D:\code\visual studio\CSharp_Senior\字符串string\LINQ\bin\Debug\LINQ.exe
+D:\code\visual studio\CSharp_Senior\字符串string\LINQ\bin\Debug\LINQ.pdb
+D:\code\visual studio\CSharp_Senior\字符串string\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Senior\字符串string\LINQ\obj\Debug\LINQ.exe
+D:\code\visual studio\CSharp_Senior\字符串string\LINQ\obj\Debug\LINQ.pdb
+D:\code\visual studio\CSharp_Senior\字符串string\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache

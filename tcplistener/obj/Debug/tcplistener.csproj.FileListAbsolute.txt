@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\tcplistener\bin\Debug\tcplistener.exe.config
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\tcplistener\bin\Debug\tcplistener.exe
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\tcplistener\bin\Debug\tcplistener.pdb
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\tcplistener\obj\Debug\tcplistener.csprojAssemblyReference.cache
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\tcplistener\obj\Debug\tcplistener.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\tcplistener\obj\Debug\tcplistener.exe
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\tcplistener\obj\Debug\tcplistener.pdb

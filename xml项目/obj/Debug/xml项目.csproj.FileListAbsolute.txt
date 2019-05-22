@@ -1,0 +1,8 @@
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\xml项目\bin\Debug\xml项目.exe.config
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\xml项目\bin\Debug\xml项目.exe
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\xml项目\bin\Debug\xml项目.pdb
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\xml项目\obj\Debug\xml项目.csprojAssemblyReference.cache
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\xml项目\obj\Debug\xml项目.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\xml项目\obj\Debug\xml项目.exe
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\xml项目\obj\Debug\xml项目.pdb
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\xml项目\bin\Debug\skillinfo.txt

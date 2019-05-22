@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\socket编程_UDP协议_服务器端\bin\Debug\socket编程_UDP协议_服务器端.exe.config
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\socket编程_UDP协议_服务器端\bin\Debug\socket编程_UDP协议_服务器端.exe
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\socket编程_UDP协议_服务器端\bin\Debug\socket编程_UDP协议_服务器端.pdb
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\socket编程_UDP协议_服务器端\obj\Debug\socket编程_UDP协议_服务器端.csprojAssemblyReference.cache
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\socket编程_UDP协议_服务器端\obj\Debug\socket编程_UDP协议_服务器端.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\socket编程_UDP协议_服务器端\obj\Debug\socket编程_UDP协议_服务器端.exe
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\socket编程_UDP协议_服务器端\obj\Debug\socket编程_UDP协议_服务器端.pdb

@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Senior\字符串string\冒泡排序扩展\bin\Debug\冒泡排序扩展.exe.config
+D:\code\visual studio\CSharp_Senior\字符串string\冒泡排序扩展\bin\Debug\冒泡排序扩展.exe
+D:\code\visual studio\CSharp_Senior\字符串string\冒泡排序扩展\bin\Debug\冒泡排序扩展.pdb
+D:\code\visual studio\CSharp_Senior\字符串string\冒泡排序扩展\obj\Debug\冒泡排序扩展.csprojAssemblyReference.cache
+D:\code\visual studio\CSharp_Senior\字符串string\冒泡排序扩展\obj\Debug\冒泡排序扩展.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Senior\字符串string\冒泡排序扩展\obj\Debug\冒泡排序扩展.exe
+D:\code\visual studio\CSharp_Senior\字符串string\冒泡排序扩展\obj\Debug\冒泡排序扩展.pdb

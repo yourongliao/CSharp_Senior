@@ -1,0 +1,6 @@
+D:\code\visual studio\CSharp_Senior\字符串string\事件\bin\Debug\事件.exe.config
+D:\code\visual studio\CSharp_Senior\字符串string\事件\bin\Debug\事件.exe
+D:\code\visual studio\CSharp_Senior\字符串string\事件\bin\Debug\事件.pdb
+D:\code\visual studio\CSharp_Senior\字符串string\事件\obj\Debug\事件.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Senior\字符串string\事件\obj\Debug\事件.exe
+D:\code\visual studio\CSharp_Senior\字符串string\事件\obj\Debug\事件.pdb

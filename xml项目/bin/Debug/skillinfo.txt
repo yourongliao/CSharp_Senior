@@ -1,0 +1,17 @@
+﻿<skills>
+  <skill>
+    <id>2</id>
+    <name lang="cn">无敌</name>
+    <damage>562</damage>
+    </skill>
+  <skill>
+    <id>3</id>
+    <name lang="cn">零度</name>
+    <damage>90</damage>
+    </skill>
+  <skill>
+    <id>4</id>
+    <name lang="en">xxxo</name>
+    <damage>693</damage>
+    </skill>
+  </skills>

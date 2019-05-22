@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Senior\字符串string\多播委托\bin\Debug\多播委托.exe.config
+D:\code\visual studio\CSharp_Senior\字符串string\多播委托\bin\Debug\多播委托.exe
+D:\code\visual studio\CSharp_Senior\字符串string\多播委托\bin\Debug\多播委托.pdb
+D:\code\visual studio\CSharp_Senior\字符串string\多播委托\obj\Debug\多播委托.csprojAssemblyReference.cache
+D:\code\visual studio\CSharp_Senior\字符串string\多播委托\obj\Debug\多播委托.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Senior\字符串string\多播委托\obj\Debug\多播委托.exe
+D:\code\visual studio\CSharp_Senior\字符串string\多播委托\obj\Debug\多播委托.pdb

@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Senior\字符串string\反射和特性\bin\Debug\反射和特性.exe.config
+D:\code\visual studio\CSharp_Senior\字符串string\反射和特性\bin\Debug\反射和特性.exe
+D:\code\visual studio\CSharp_Senior\字符串string\反射和特性\bin\Debug\反射和特性.pdb
+D:\code\visual studio\CSharp_Senior\字符串string\反射和特性\obj\Debug\反射和特性.csprojAssemblyReference.cache
+D:\code\visual studio\CSharp_Senior\字符串string\反射和特性\obj\Debug\反射和特性.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Senior\字符串string\反射和特性\obj\Debug\反射和特性.exe
+D:\code\visual studio\CSharp_Senior\字符串string\反射和特性\obj\Debug\反射和特性.pdb

@@ -1,0 +1,6 @@
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\udpClient_2\bin\Debug\udpClient_2.exe.config
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\udpClient_2\bin\Debug\udpClient_2.exe
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\udpClient_2\bin\Debug\udpClient_2.pdb
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\udpClient_2\obj\Debug\udpClient_2.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\udpClient_2\obj\Debug\udpClient_2.exe
+D:\code\visual studio\CSharp_Senior\CSharp_Senior\udpClient_2\obj\Debug\udpClient_2.pdb

@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Senior\字符串string\正则表达式\bin\Debug\正则表达式.exe.config
+D:\code\visual studio\CSharp_Senior\字符串string\正则表达式\bin\Debug\正则表达式.exe
+D:\code\visual studio\CSharp_Senior\字符串string\正则表达式\bin\Debug\正则表达式.pdb
+D:\code\visual studio\CSharp_Senior\字符串string\正则表达式\obj\Debug\正则表达式.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Senior\字符串string\正则表达式\obj\Debug\正则表达式.exe
+D:\code\visual studio\CSharp_Senior\字符串string\正则表达式\obj\Debug\正则表达式.pdb
+D:\code\visual studio\CSharp_Senior\字符串string\正则表达式\obj\Debug\正则表达式.csprojAssemblyReference.cache
